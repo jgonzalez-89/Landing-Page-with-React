@@ -24,6 +24,7 @@ Do not clone this repository.
 cd my-project
 
 npm install
+
 npm run dev
 
 <p align="center">
