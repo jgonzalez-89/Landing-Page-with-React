@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Home from "/workspace/Landing-Page-with-React/src/view/Home.jsx"
+import Home from "./view/Home"
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
